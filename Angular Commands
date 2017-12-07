@@ -1,0 +1,7 @@
+npm install -g @angular/cli
+npm install oracledb --save
+npm install express --save
+npm install body-parser --save
+npm install nodemon --save
+npm install express body-parser oracledb --save
+ng build
